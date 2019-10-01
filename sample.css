@@ -17,6 +17,9 @@ h3 {
 h4 {
   text-align: center;
 }
+h5 {
+  text-align: left;
+}
 </style>
 </head>
 <body>
@@ -25,7 +28,7 @@ h4 {
 <h2>Heading 2 (left)</h2>
 <h3>Heading 3 (right)</h3>
 <h4>Heading 4 (right)</h4>
-
+<h5>Heading 5 (right)</h5>
 <p>The three headings above are aligned center, left and right.</p>
 
 </body>
